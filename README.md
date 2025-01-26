@@ -46,7 +46,12 @@ Your code implements a GUI application for encryption and decryption using vario
 
 
 ```python
-git clone 
+git clone https://github.com/451646464/encrption_interface.git
+```
+### Run Tools 
+```python
+cd encrption_interface
+python3 main.py
 ```
 
 ### Usage
